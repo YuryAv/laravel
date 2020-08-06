@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08d36530-ad02-4e7c-919c-17c77d38f6b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+    <list default="true" id="08d36530-ad02-4e7c-919c-17c77d38f6b2" name="Default Changelist" comment="first iterative">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -161,12 +166,24 @@
       <updated>1596728139833</updated>
       <workItem from="1596728141522" duration="1213000" />
       <workItem from="1596731437311" duration="7711000" />
-      <workItem from="1596741015016" duration="1681000" />
+      <workItem from="1596741015016" duration="2775000" />
     </task>
+    <task id="LOCAL-00001" summary="first iterative">
+      <created>1596743014758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596743014758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first iterative" />
+    <option name="LAST_COMMIT_MESSAGE" value="first iterative" />
   </component>
   <component name="WindowStateProjectService">
     <state x="470" y="84" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596742503758">
@@ -177,10 +194,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="429" y="203" width="559" height="403" key="#com.intellij.fileTypes.FileTypeChooser/72.27.1294.741@72.27.1294.741" timestamp="1596735945494" />
+    <state x="258" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1596743309947">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="258" y="27" width="912" height="741" key="CommitChangelistDialog2/72.27.1294.741@72.27.1294.741" timestamp="1596743309947" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596743326332">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1596743326332" />
     <state x="323" y="27" width="618" height="707" key="find.popup" timestamp="1596741403162">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="323" y="27" width="618" height="707" key="find.popup/72.27.1294.741@72.27.1294.741" timestamp="1596741403162" />
+    <state x="506" y="298" width="416" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596742822954">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="506" y="298" width="416" height="206" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1294.741@72.27.1294.741" timestamp="1596742822954" />
     <state x="383" y="174" key="run.anything.popup" timestamp="1596741170066">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
